@@ -26,6 +26,7 @@ return {
   -- web dev stuff
       "html-lsp",
       "css-lsp" ,
+      "emmet-language-server",
       "prettier",
       "css-lsp",
       "html-lsp",
