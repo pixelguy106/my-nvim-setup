@@ -46,6 +46,9 @@ return {
 
   -- rust stuff
   -- "rust-analyzer",
+
+  -- go stuff
+      "gopls",
   	},
   },
   },
